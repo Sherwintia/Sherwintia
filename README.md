@@ -19,5 +19,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="xkyl17@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="xkyl17@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-xkyl17@outlook.com-blue?style=flat-square&logo=gmail"></a>
 </p>
